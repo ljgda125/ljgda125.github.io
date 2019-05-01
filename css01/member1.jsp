@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="utf-8"/><meta name="viewport" content="width=divice-width, initial-scale=1"/>
-<link rel="stylesheet" href="https://ljgda125.github.io/css02/sample.css"/>
+<link rel="stylesheet" href="https://ljgda125.github.io/css01/sample.css"/>
 <title>CSS 객체 선택 실습</title></head>
 <body><header><h2>실습을 환영합니다</h2></header>
 <nav><ul class="ulClass">
